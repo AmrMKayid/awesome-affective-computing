@@ -25,3 +25,11 @@
 
 - [Affective Computing](https://affect.media.mit.edu/pdfs/95.picard.pdf)
 - [Theories, Methods and Current Research on Emotions](https://irenelopatovska.files.wordpress.com/2012/10/lopatovska_arapakis_2011_theories.pdf)
+
+## Software
+
+- [Affectiva](https://www.affectiva.com/)
+- [Emotient](https://imotions.com/emotient/)
+- [EmoVu](http://www.eyeris.ai/)
+- [Nviso](http://www.nviso.ch/technology.html)
+- [Kairos](https://www.kairos.com/)
