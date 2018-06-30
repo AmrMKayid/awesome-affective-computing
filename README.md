@@ -19,12 +19,14 @@
 
 - [Papers](#papers)
 - [Software](#software)
+- [Courses](#courses)
 
 
 ## Papers
 
 - [Affective Computing](https://affect.media.mit.edu/pdfs/95.picard.pdf)
 - [Theories, Methods and Current Research on Emotions](https://irenelopatovska.files.wordpress.com/2012/10/lopatovska_arapakis_2011_theories.pdf)
+
 
 ## Software
 
@@ -33,3 +35,11 @@
 - [EmoVu](http://www.eyeris.ai/)
 - [Nviso](http://www.nviso.ch/technology.html)
 - [Kairos](https://www.kairos.com/)
+
+
+## Courses
+
+- [MIT - Affective Computing](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-630-affective-computing-fall-2015/)
+- [Knowledge-Based AI: Cognitive Systems](https://eg.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409)
+- [Computer Vision Nanodegree](https://in.udacity.com/course/computer-vision-nanodegree--nd891)
+- [Coursera - Affective computing](https://www.coursera.org/lecture/emotions/affective-computing-gebqS)
