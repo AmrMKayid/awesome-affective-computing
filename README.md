@@ -20,6 +20,7 @@
 - [Papers](#papers)
 - [Software](#software)
 - [Courses](#courses)
+- [Books](#books)
 
 
 ## Papers
@@ -43,3 +44,11 @@
 - [Knowledge-Based AI: Cognitive Systems](https://eg.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409)
 - [Computer Vision Nanodegree](https://in.udacity.com/course/computer-vision-nanodegree--nd891)
 - [Coursera - Affective computing](https://www.coursera.org/lecture/emotions/affective-computing-gebqS)
+
+
+## Books
+
+- [Affective Computing](https://mitpress.mit.edu/books/affective-computing)
+- [Heart of the Machine: Our Future in a World of Artificial Emotional Intelligence](https://www.amazon.com/Heart-Machine-Artificial-Emotional-Intelligence/dp/1628727330)
+- [The Oxford Handbook of Affective Computing](https://www.amazon.com/Handbook-Affective-Computing-Library-Psychology/dp/0199942234)
+- [Affective Computing and Sentiment Analysis](https://www.springer.com/gp/book/9789400717565)
