@@ -31,11 +31,11 @@
 
 ## Software
 
-- [Affectiva](https://www.affectiva.com/)
-- [Emotient](https://imotions.com/emotient/)
-- [EmoVu](http://www.eyeris.ai/)
-- [Nviso](http://www.nviso.ch/technology.html)
-- [Kairos](https://www.kairos.com/)
+- [Affectiva](https://www.affectiva.com/) - Affectiva develop software to recognize human emotions based on facial cues.
+- [Emotient](https://imotions.com/emotient/) - Emotient Facial Expression Analysis Engine
+- [EmoVu](http://www.eyeris.ai/) - EmoVu is a deep learning-based emotion recognition that reads facial micro-expressions in real-time
+- [Nviso](http://www.nviso.ch/technology.html) - NVISO detect and predict human behaviours using Visual Intelligence.
+- [Kairos](https://www.kairos.com/) - Serve Businesses with Face Recognition
 
 
 ## Courses
