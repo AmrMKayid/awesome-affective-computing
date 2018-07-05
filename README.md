@@ -56,6 +56,9 @@
 Recognition](https://pdfs.semanticscholar.org/d6c7/092111a8619ed7a6b01b00c5f75949f137bf.pdf)
 - [Emotion Recognition from Arbitrary View Facial Images](http://www.cis.pku.edu.cn/faculty/vision/zlin/Publications/2010-ECCV-Emotion.pdf)
 
+### Voice
+
+- [EmoVoice — A framework for online recognition of emotions from voice](https://www.informatik.uni-augsburg.de/lehrstuehle/hcm/publications/2008-PIT-Vogt/Vogtetal-PIT08.pdf)
 
 ## Software
 
