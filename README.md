@@ -61,6 +61,13 @@ Recognition](https://pdfs.semanticscholar.org/d6c7/092111a8619ed7a6b01b00c5f7594
 ### Voice
 
 - [EmoVoice — A framework for online recognition of emotions from voice](https://www.informatik.uni-augsburg.de/lehrstuehle/hcm/publications/2008-PIT-Vogt/Vogtetal-PIT08.pdf)
+- [EmoVoice: a System to Generate Emotions in Speech](https://www.researchgate.net/publication/221478213_Emovoice_a_system_to_generate_emotions_in_speech)
+- [Speech Emotion Recognition](https://pdfs.semanticscholar.org/8b09/af0774f1d5985fb86cdda4ad33c58608a1e6.pdf)
+- [Speech Emotion Recognition Using Support Vector Machine](http://www.earticle.net/Article.aspx?sn=204547)
+- [Speech emotion recognition using hidden Markov models](https://www.sciencedirect.com/science/article/pii/S0167639303000992)
+- [Emotion Recognition From Speech With Recurrent Neural Networks](https://arxiv.org/abs/1701.08071)
+- [Speech Emotion Recognition Using Deep Neural Network and Extreme Learning Machine](https://www.microsoft.com/en-us/research/publication/speech-emotion-recognition-using-deep-neural-network-and-extreme-learning-machine/)
+- [Deep learning for robust feature generation in audiovisual emotion recognition](https://ieeexplore.ieee.org/document/6638346)
 
 
 ### Behavioral
