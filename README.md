@@ -25,6 +25,7 @@
 - [Software](#software)
 - [Courses](#courses)
 - [Books](#books)
+- [Open-Source Projects](#projects)
 
 
 ## Papers
@@ -83,6 +84,7 @@ Recognition](https://pdfs.semanticscholar.org/d6c7/092111a8619ed7a6b01b00c5f7594
 - [EmoVu](http://www.eyeris.ai/) - EmoVu is a deep learning-based emotion recognition that reads facial micro-expressions in real-time
 - [Nviso](http://www.nviso.ch/technology.html) - NVISO detect and predict human behaviours using Visual Intelligence.
 - [Kairos](https://www.kairos.com/) - Serve Businesses with Face Recognition
+- [Cognitive-Emotion-Python](https://github.com/Microsoft/Cognitive-Emotion-Python), Python SDK for the Microsoft Emotion API, part of Cognitive Services
 
 
 
@@ -101,3 +103,20 @@ Recognition](https://pdfs.semanticscholar.org/d6c7/092111a8619ed7a6b01b00c5f7594
 - [Heart of the Machine: Our Future in a World of Artificial Emotional Intelligence](https://www.amazon.com/Heart-Machine-Artificial-Emotional-Intelligence/dp/1628727330)
 - [The Oxford Handbook of Affective Computing](https://www.amazon.com/Handbook-Affective-Computing-Library-Psychology/dp/0199942234)
 - [Affective Computing and Sentiment Analysis](https://www.springer.com/gp/book/9789400717565)
+
+
+
+## Open-Source Projects
+
+- [emotion-recognition-neural-networks](https://github.com/isseu/emotion-recognition-neural-networks), Emotion recognition using DNN with tensorflow
+- [Emotion](https://github.com/petercunha/Emotion), Recognizes human faces and their corresponding emotions from a video or webcam feed. Powered by OpenCV and Deep Learning.
+- [EmotionRecognition](https://github.com/leonardean/EmotionRecognition), Real time emotion recogniser using web camera based on FACS.
+- [face_classification](https://github.com/oarriaga/face_classification), Real-time face detection and emotion/gender classification using fer2013/imdb datasets with a keras CNN model and openCV.
+- [Emotion-Recognition-RNN](https://github.com/saebrahimi/Emotion-Recognition-RNN), Recurrent Neural Networks for Emotion Recognition in Video
+- [EmotionNet](https://github.com/co60ca/EmotionNet), Convolutional Neural Network for Emotion Recognition
+- [emotion-conv-net](https://github.com/GautamShine/emotion-conv-net), Real-time emotion recognition using convolutional neural nets.
+- [DeepSentiment](https://github.com/vyassu/DeepSentiment), Speech Emotion Recognition using FFT and SVM
+- [Voice-Emotion-Detector](https://github.com/crhung/Voice-Emotion-Detector), Voice Emotion Detector that detects emotion from audio speech using one dimensional CNNs (convolutional neural networks) using keras and tensorflow on Jupyter Notebook.
+- [Speech-Emotion-Analyzer](https://github.com/MITESHPUTHRANNEU/Speech-Emotion-Analyzer), The neural network model is capable of detecting eight different male/female emotions from audio speeches. (Deep Learning, Python)
+- [Emotion_Recognition](https://github.com/miguelki/Emotion_Recognition)
+- [Emotion_Voice_Recognition_Chainer](https://github.com/SnowMasaya/Emotion_Voice_Recognition_Chainer-)
