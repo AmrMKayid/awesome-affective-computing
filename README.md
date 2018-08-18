@@ -18,20 +18,16 @@
 # Contents
 
 - [Papers](#papers)
-	- [General](#general)
-	- [Facial](#facial)
-	- [Voice](#voice)
-	- [Behavioral](#behavioral)
+	- [General](#general) | [Facial](#facial) | [Voice](#voice) | [Behavioral](#behavioral)
 - [Software](#software)
 - [Courses](#courses)
 - [Books](#books)
 - [Open-Source Projects](#projects)
 
 
-## Papers
+# Papers
 
-
-### General
+## General
 
 - [Affective Computing](https://affect.media.mit.edu/pdfs/95.picard.pdf)
 - [Theories, Methods and Current Research on Emotions](https://irenelopatovska.files.wordpress.com/2012/10/lopatovska_arapakis_2011_theories.pdf)
@@ -39,7 +35,7 @@
 - [An Emotion Recognition System for Mobile Applications](https://ieeexplore.ieee.org/document/7862118/)
 
 
-### Facial
+## Facial
 - [A comprehensive study on Facial Expressions Recognition Techniques](https://ieeexplore.ieee.org/document/7508167/)
 - [Recognizing Facial Expressions Using Deep Learning](http://cs231n.stanford.edu/reports/2017/pdfs/224.pdf)
 - [Deep learning for facial expression recognition: A step closer to a smartphone that knows your moods](https://ieeexplore.ieee.org/document/7889290/)
@@ -59,7 +55,7 @@ Recognition](https://pdfs.semanticscholar.org/d6c7/092111a8619ed7a6b01b00c5f7594
 - [Emotion Recognition from Arbitrary View Facial Images](http://www.cis.pku.edu.cn/faculty/vision/zlin/Publications/2010-ECCV-Emotion.pdf)
 
 
-### Voice
+## Voice
 
 - [EmoVoice — A framework for online recognition of emotions from voice](https://www.informatik.uni-augsburg.de/lehrstuehle/hcm/publications/2008-PIT-Vogt/Vogtetal-PIT08.pdf)
 - [EmoVoice: a System to Generate Emotions in Speech](https://www.researchgate.net/publication/221478213_Emovoice_a_system_to_generate_emotions_in_speech)
@@ -71,13 +67,13 @@ Recognition](https://pdfs.semanticscholar.org/d6c7/092111a8619ed7a6b01b00c5f7594
 - [Deep learning for robust feature generation in audiovisual emotion recognition](https://ieeexplore.ieee.org/document/6638346)
 
 
-### Behavioral
+## Behavioral
 
 - [Three-Dimensional, Kinematic, Human Behavioral Pattern-Based Features for Multimodal Emotion Recognition](http://www.mdpi.com/2414-4088/1/3/19)
 
 
 
-## Software
+# Software
 
 - [Affectiva](https://www.affectiva.com/) - Affectiva develop software to recognize human emotions based on facial cues.
 - [Emotient](https://imotions.com/emotient/) - Emotient Facial Expression Analysis Engine
@@ -88,7 +84,7 @@ Recognition](https://pdfs.semanticscholar.org/d6c7/092111a8619ed7a6b01b00c5f7594
 
 
 
-## Courses
+# Courses
 
 - [MIT - Affective Computing](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-630-affective-computing-fall-2015/)
 - [Knowledge-Based AI: Cognitive Systems](https://eg.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409)
@@ -97,7 +93,7 @@ Recognition](https://pdfs.semanticscholar.org/d6c7/092111a8619ed7a6b01b00c5f7594
 
 
 
-## Books
+# Books
 
 - [Affective Computing](https://mitpress.mit.edu/books/affective-computing)
 - [Heart of the Machine: Our Future in a World of Artificial Emotional Intelligence](https://www.amazon.com/Heart-Machine-Artificial-Emotional-Intelligence/dp/1628727330)
@@ -106,7 +102,7 @@ Recognition](https://pdfs.semanticscholar.org/d6c7/092111a8619ed7a6b01b00c5f7594
 
 
 
-## Open-Source Projects
+# Open-Source Projects
 
 - [emotion-recognition-neural-networks](https://github.com/isseu/emotion-recognition-neural-networks), Emotion recognition using DNN with tensorflow
 - [Emotion](https://github.com/petercunha/Emotion), Recognizes human faces and their corresponding emotions from a video or webcam feed. Powered by OpenCV and Deep Learning.
