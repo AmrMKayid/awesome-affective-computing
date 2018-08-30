@@ -1,7 +1,7 @@
 <h1 align=center> Awesome Affective Computing </h1>
 
 <div align="center">
-	<img width="900" src="awesome-affective-computing.png" alt="Awesome Affective Computing">
+	<img src="awesome-affective-computing.png" alt="Awesome Affective Computing">
 </div>
 
 <p align="center">
