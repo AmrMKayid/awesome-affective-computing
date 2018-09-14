@@ -5,6 +5,9 @@
 </div>
 
 <p align="center">
+	<a href="https://github.com/AmrMKayid/awesome-affective-computing/">
+		<img alt="A curated list of awesome affective computing 🤖❤️ papers, software, open-source projects, and resources" src="https://img.shields.io/badge/Artificial%20Intelligence-Affective%20Computing-blue.svg">
+	</a>
 	<a href="https://github.com/sindresorhus/awesome">
 		<img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
 	</a>
