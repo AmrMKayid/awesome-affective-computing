@@ -8,6 +8,12 @@
 	<a href="https://github.com/sindresorhus/awesome">
 		<img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
 	</a>
+	<a href="https://github.com/AmrMKayid/awesome-affective-computing/stargazers">
+	    <img alt="A curated list of awesome affective computing 🤖❤️ papers, software, open-source projects, and resources" src="https://img.shields.io/github/stars/AmrMKayid/awesome-affective-computing.svg">
+  	</a>
+	<a href="https://github.com/AmrMKayid/awesome-affective-computing/network">
+	    <img alt="A curated list of awesome affective computing 🤖❤️ papers, software, open-source projects, and resources" src="https://img.shields.io/github/forks/AmrMKayid/awesome-affective-computing.svg">
+  	</a>
 	<a href="https://twitter.com/intent/tweet?text=Awesome%20Affective%20Computing%20-%20A%20curated%20list%20of%20awesome%20affective%20computing%20papers,%20software,%20and%20resources%20by%20@AmrMKayid&url=https://github.com/AmrMKayid/awesome-affective-computing&hashtags=affective_computing,emotion_recognition,emotionalintelligence,artificialintelligence,deeplearning">
 		<img alt="tweet" src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social">
 	</a>
