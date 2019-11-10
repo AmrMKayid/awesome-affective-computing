@@ -31,8 +31,10 @@
 - [Software](#software)
 - [Courses](#courses)
 - [Books](#books)
+	- [Related](#related)
+		- [Affective Science](#affective-science)
+		- [Video-games](#video-games)
 - [Open-Source Projects](#projects)
-
 
 # Papers
 
@@ -103,12 +105,23 @@ Recognition](https://pdfs.semanticscholar.org/d6c7/092111a8619ed7a6b01b00c5f7594
 
 
 # Books
-
 - [Affective Computing](https://mitpress.mit.edu/books/affective-computing)
 - [Heart of the Machine: Our Future in a World of Artificial Emotional Intelligence](https://www.amazon.com/Heart-Machine-Artificial-Emotional-Intelligence/dp/1628727330)
 - [The Oxford Handbook of Affective Computing](https://www.amazon.com/Handbook-Affective-Computing-Library-Psychology/dp/0199942234)
 - [Affective Computing and Sentiment Analysis](https://www.springer.com/gp/book/9789400717565)
+- [A Blueprint for Affective Computing: A Sourcebook and Manual](https://global.oup.com/academic/product/a-blueprint-for-affective-computing-9780199566709?cc=us&lang=en&)
+- [Emotion and Reason in Consumer Behavior](https://www.routledge.com/Emotion-and-Reason-in-Consumer-Behavior-1st-Edition/Chaudhuri/p/book/9780750679763)
 
+## Related
+### Affective Science
+- [The Nature of Emotion: Fundamental Questions](https://global.oup.com/academic/product/the-nature-of-emotion-9780190612573?cc=us&lang=en&)
+- [Oxford Companion to Emotion and the Affective Sciences](https://global.oup.com/academic/product/oxford-companion-to-emotion-and-the-affective-sciences-9780198569633?cc=us&lang=en&)
+- [Handbook of Affective Sciences](https://global.oup.com/academic/product/handbook-of-affective-sciences-9780195377002?cc=us&lang=en&)
+- [Science of Emotional Intelligence: Knowns and Unknowns](https://global.oup.com/academic/product/science-of-emotional-intelligence-9780195181890?cc=us&lang=en&)
+
+### Video-games
+- [Emotion in Games: Theory and Praxis](https://www.springer.com/gp/book/9783319413143)
+- [Heidi McDonald. Digital Love: Romance and Sexuality in Games](https://www.routledge.com/Digital-Love-Romance-and-Sexuality-in-Games-1st-Edition/McDonald/p/book/9781482237986)
 
 
 # Open-Source Projects
